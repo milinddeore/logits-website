@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: splash
 permalink: /contact/
 title: "CONTACT"
 

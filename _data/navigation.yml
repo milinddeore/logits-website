@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Contact"
-    url: /logits-website/contact/
+    url: /contact/
   - title: "Team"
     url: /Team/
   # - title: "Sitemap"

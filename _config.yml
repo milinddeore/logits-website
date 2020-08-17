@@ -291,17 +291,17 @@ defaults:
       author_profile: true
 
 # Site Footer
-team1:
+milind:
   links:
     - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tomdeore"
     - label: ""
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mdeore/"
+    - label: ""
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/milinddeore"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

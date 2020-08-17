@@ -8,10 +8,9 @@ header:
   overlay_image: /assets/images/photo-1501820434261-5bb046afcf6b.jpeg
 excerpt: "Our team"
 ---
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
 ![Saket](/assets/images/saket.jpeg)
 ### Saket Deshmukh
 I am responsible for figuring out what customers want. Prior to Logits, I had my own startup in Mobile App development platform space.

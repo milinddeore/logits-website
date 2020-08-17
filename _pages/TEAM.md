@@ -23,8 +23,8 @@ I am responsible for implementing technology for delivering the right user exper
 
 <div class="page__footer-follow">
   <ul class="social-icons">
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
+    {% if site.team1.links %}
+      {% for link in site.team1.links %}
         {% if link.label and link.url %}
           <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
         {% endif %}

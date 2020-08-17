@@ -9,12 +9,9 @@ header:
 excerpt: "Our team"
 ---
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+| ![image-left](/assets/images/milind.jpg){: .align-center} | ![image-left](/assets/images/saket.jpg){: .align-center} |
+|:--------|:-------:|
+| Milind Deore   | Saket Deshmukh   |
+| cell4   | cell5   |
+|===================|
+| Foot1   | Foot2   |

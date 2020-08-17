@@ -14,6 +14,17 @@ excerpt: "Our team"
 ![Saket](/assets/images/saket.jpeg)
 ### Saket Deshmukh
 I am responsible for figuring out what customers want. Prior to Logits, I had my own startup in Mobile App development platform space.
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.saket.links %}
+      {% for link in site.saket.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </ul>
+</div>
 
 <br/>
 

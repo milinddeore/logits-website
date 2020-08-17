@@ -9,4 +9,4 @@ header:
 excerpt: "Our team"
 ---
 
-We have works on various project before.{: .text-left}
+We have works on various project before.text-right

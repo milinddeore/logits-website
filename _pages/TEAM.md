@@ -7,11 +7,13 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/photo-1501820434261-5bb046afcf6b.jpeg
 excerpt: "Our team"
+
 ---
 <br/>
 <br/>
 *Team has three decades of experience together in software development at startups. Extensive experience in Embedded systems, Networking, and Authentication.* 
 ---
+
 ![Saket](/assets/images/saket.jpeg)
 ### Saket Deshmukh
 I am responsible for figuring out what customers want. Prior to Logits, I had my own startup in Mobile App development platform space.

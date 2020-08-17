@@ -293,10 +293,10 @@ defaults:
 # Site Footer
 team1:
   links:
-    - label: "Twitter"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Saket_Deshmukh"
-    - label: "Facebook"
+      url: "https://twitter.com/tomdeore"
+    - label: ""
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"

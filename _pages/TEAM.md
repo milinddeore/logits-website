@@ -9,9 +9,10 @@ header:
 excerpt: "Our team"
 ---
 <br/>
+Team has three decades of experience together in software development at startups. Extensive experience in Embedded systems, Networking, and Authentication. 
 <br/>
 
-![Saket](/assets/images/saket.jpeg)
+![Saket](/assets/images/saket.jpeg){: .align-right}
 ### Saket Deshmukh
 I am responsible for figuring out what customers want. Prior to Logits, I had my own startup in Mobile App development platform space.
 <div class="page__footer-follow">
@@ -26,7 +27,6 @@ I am responsible for figuring out what customers want. Prior to Logits, I had my
   </ul>
 </div>
 
-<br/>
 
 ![Milind](/assets/images/milind.JPG)
 ### Milind Deore

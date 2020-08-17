@@ -9,13 +9,14 @@ header:
 excerpt: "Our team"
 ---
 
-
-
-
+<br/>
+<br/>
+<br/>
 ![Saket](/assets/images/saket.jpeg)
 ### Saket Deshmukh
 I am responsible for figuring out what customers want. Prior to Logits, I had my own startup in Mobile App development platform space.
 
+<br/>
 
 ![Milind](/assets/images/milind.JPG)
 ### Milind Deore

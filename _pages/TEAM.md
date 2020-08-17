@@ -23,7 +23,6 @@ I am responsible for implementing technology for delivering the right user exper
 
 <div class="page__footer-follow">
   <ul class="social-icons">
-
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}

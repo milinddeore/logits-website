@@ -20,3 +20,16 @@ I am responsible for figuring out what customers want. Prior to Logits, I had my
 ![Milind](/assets/images/milind.JPG)
 ### Milind Deore
 I am responsible for implementing technology for delivering the right user experience. Prior to Logits, I worked as a platform engineer for chassis grade distributed system for past 17 years with companies like Cisco, Starent, and Sasken.
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </ul>
+</div>

@@ -9,5 +9,4 @@ header:
 excerpt: "Our team"
 ---
 
-We have works on various project before.
-{:. text-right}
+We have works on various project before.{:. text-right}

@@ -19,7 +19,7 @@ I am responsible for figuring out what customers want. Prior to Logits, I had my
 
 ![Milind](/assets/images/milind.JPG)
 ### Milind Deore
-I am responsible for implementing technology for delivering the right user experience. Prior to Logits, I worked as a platform engineer for chassis grade distributed system for past 17 years with companies like Cisco, Starent, and Sasken.
+Milind has 20 years of work experience: As a platform engineer with companies like Starent Networks and Cisco. As machine learning architect with Mellowain and FICO. Milind believes in the power of communities and therefore active AI/ML/IoT community member and organizer. Conducted various bootcamps and hackathons. Open source contributor, entrepreneur, learner. Milind mentored and won awards for various projects like : Eclipse IoT 2015, TI India challenge 2016, Intel Ultimate coder challenge 2016. Patent pending in the area of Facial authentication.
 
 <div class="page__footer-follow">
   <ul class="social-icons">

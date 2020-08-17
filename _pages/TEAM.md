@@ -9,7 +9,7 @@ header:
 excerpt: "Our team"
 ---
 
-| ![image-left](/assets/images/milind.jpg){: .align-center} | ![image-left](/assets/images/saket.jpg){: .align-center} |
+| ![](/assets/images/milind.jpg){: .align-center} | ![image-left](/assets/images/saket.jpeg){: .align-center} |
 |:--------|:-------:|
 | Milind Deore   | Saket Deshmukh   |
 | cell4   | cell5   |

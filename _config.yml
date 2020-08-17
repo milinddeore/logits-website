@@ -290,7 +290,7 @@ defaults:
       layout: single
       author_profile: true
 
-# Site Footer
+# Team Members
 milind:
   links:
     - label: ""
@@ -302,6 +302,27 @@ milind:
     - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/milinddeore"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
+saket:
+  links:
+    - label: ""
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Saket_Deshmukh"
+    - label: ""
+      icon: "fab fa-fw fa-linkedin"
+      # url: "https://www.linkedin.com/in/mdeore/"
+    - label: ""
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/milinddeore"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

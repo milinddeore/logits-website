@@ -9,9 +9,11 @@ header:
 excerpt: "Our team"
 
 ---
+
 <br/>
 <br/>
 *Team has three decades of experience together in software development at startups. Extensive experience in Embedded systems, Networking, and Authentication.* 
+
 ---
 
 ![Saket](/assets/images/saket.jpeg)

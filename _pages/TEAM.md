@@ -31,6 +31,8 @@ I am responsible for figuring out what customers want. Prior to Logits, I had my
   </ul>
 </div>
 
+<br/>
+
 ![Milind](/assets/images/milind.JPG)
 ### Milind Deore
 Milind has 20 years of work experience: As a platform engineer with companies like Starent Networks and Cisco. As machine learning architect with Mellowain and FICO. Milind believes in the power of communities and therefore active AI/ML/IoT community member and organizer. Conducted various bootcamps and hackathons. Open source contributor, entrepreneur, learner. Milind mentored and won awards for various projects like : Eclipse IoT 2015, TI India challenge 2016, Intel Ultimate coder challenge 2016. Patent pending in the area of Facial authentication.

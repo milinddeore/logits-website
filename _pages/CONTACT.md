@@ -1,5 +1,5 @@
 ---
-layout: spalsh
+layout: splash
 permalink: /contact/
 title: "CONTACT"
 header:

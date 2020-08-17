@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Logits"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Logits"
 description              : "An amazing website."
 url                      : "https://milinddeore.github.io"
 baseurl                  : "/logits-website"
@@ -123,7 +123,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/Saket_Deshmukh"
+      url: "https://twitter.com/Saket_Deshmukh"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

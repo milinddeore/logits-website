@@ -23,8 +23,8 @@ Milind has 20 years of work experience: As a platform engineer with companies li
 
 <div class="page__footer-follow">
   <ul class="social-icons">
-    {% if site.team1.links %}
-      {% for link in site.team1.links %}
+    {% if site.milind.links %}
+      {% for link in site.milind.links %}
         {% if link.label and link.url %}
           <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
         {% endif %}

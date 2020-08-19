@@ -15,6 +15,6 @@ excerpt: "Who we are?"
 
 ---
 
-Face biometric with weak liveness can cause intruders to get them in as impostors. We have given strong emphasis on liveness detection along with anomaly algorithms to make it unbreakable, that inherently solves fake user registration.
+**Face biometric with weak liveness can cause intruders to get them in as impostors. We have given strong emphasis on liveness detection along with anomaly algorithms to make it unbreakable, that inherently solves fake user registration.**
 
 ---

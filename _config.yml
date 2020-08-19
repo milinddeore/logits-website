@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Logits Systems"
 description              : "An amazing website."
-url                      : "https://milinddeore.github.io/"
+url                      : "https://logits.systems/" # "https://milinddeore.github.io/"
 baseurl                  : "/logits-website"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

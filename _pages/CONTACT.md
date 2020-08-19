@@ -9,6 +9,10 @@ header:
 excerpt: "Reachout, we would love to talk."
 ---
 
-Email : [Saket@logitssystems.com](saket@logitssystems.com)
+<br\>
 
-Phone : +91-9130730113
+**Email** : [Saket@logitssystems.com](saket@logitssystems.com)
+
+**Phone** : +91-9130730113
+
+---

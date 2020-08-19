@@ -1,0 +1,14 @@
+---
+layout: splash
+author_profile: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/photo-1501820434261-5bb046afcf6b.jpeg
+  actions:
+    - label: "Learn More"
+      url: "/about/"
+excerpt: "Logits systems develops technologies for face and voice biometric, computer vision and more. Fast, compact and on the edge devices."
+---
+
+![Intro-video](https://www.youtube.com/embed/m5gxnoTWZis){: .align-center}

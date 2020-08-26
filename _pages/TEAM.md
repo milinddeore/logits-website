@@ -61,7 +61,9 @@ Milind has 20 years of work experience: As a platform engineer with companies li
 
 ![Ashimroy](/assets/images/ashimroy.JPG)
 ### Ashim Roy
-#### Advisor
+
+*Advisor*
+
 Ashim’s technology journey has crisscrossed countries and continents and he brings diversity and depth of 30+ years of experience to his role of co-founder and CEO of Cardiotrack. Ashim did his BE in Electronics and Electrical Engineering from BITS, Pilani; Masters from IIT, Delhi and PhD from the University of Adelaide. He has spent about 24 years in the telecom world most of it in the US and holds several patents. He has been an adjunct professor at Catholic University, Washington DC.
 
 Ashim revels in the challenges and highs of the start-up world and is a fierce proponent of technology that benefits the under-served masses.

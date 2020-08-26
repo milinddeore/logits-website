@@ -343,7 +343,7 @@ ashimroy:
       url: "https://www.linkedin.com/in/ashimroy/"
     - label: ""
       icon: "fab fa-fw fa-github"
-      url: ""
+      # url: ""
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Saket Deshmukh"
-  avatar           : "/assets/images/saket.jpeg"
+  avatar           : #"/assets/images/saket.jpeg"
   bio              : "Blogger, Social and Tech Entrepreneurs."
   location         : "Pune, India"
   email            : 

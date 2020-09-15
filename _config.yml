@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saket Deshmukh"
-  avatar           : #"/assets/images/saket.jpeg"
-  bio              : "Blogger, Social and Tech Entrepreneurs."
+  name             : "Logits Blog"
+  avatar           : "/assets/images/logits-logo100x100.png"
+  bio              : "Biometric Technologies, Trends and News"
   location         : "Pune, India"
   email            : 
   links:

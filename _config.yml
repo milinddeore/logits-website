@@ -20,7 +20,7 @@ title                    : "Logits Systems"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Logits Systems"
-description              : "An amazing website."
+description              : "Biometric on the edge devices."
 url                      : "https://logits.systems/" # "https://milinddeore.github.io/"
 baseurl                  : "" # "/logits-website"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

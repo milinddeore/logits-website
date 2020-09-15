@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "History Of Biometric Verification"
 categories:
   - Biometric

@@ -10,8 +10,7 @@ tags:
 ---
 
 <figure class="align-center">
-  <img src="https://www.dropbox.com/s/37lfvm9yzp1gyt9/History_of_biometric_verification.png" alt="">
-  <figcaption>Look at 580 x 300 getting some love.</figcaption>
+  <img src="/assets/images/History_of_biometric_verification.png" alt="">
 </figure>
 
 

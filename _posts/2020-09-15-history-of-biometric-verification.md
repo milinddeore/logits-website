@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "History Of Biometric Verification"
 categories:
   - Biometric
@@ -9,7 +9,7 @@ tags:
   - authentication
 ---
 
-![Saket](/assets/images/saket.jpeg)
+<img align="center" src="https://www.dropbox.com/s/37lfvm9yzp1gyt9/History_of_biometric_verification.png">
 
 - The Chinese emperor Ts'in, she was already authenticating specific seals with a fingerprint way back in the second century B.
 

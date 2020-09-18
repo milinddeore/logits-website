@@ -9,7 +9,7 @@ tags:
   - authentication
 ---
 
-<figure class="align-center">
+<figure class="align-left">
   <img src="/assets/images/History_of_biometric_verification.png" alt="">
 </figure>
 

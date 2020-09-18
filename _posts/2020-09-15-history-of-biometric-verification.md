@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "History Of Biometric Verification"
 categories:
   - Biometric
@@ -8,7 +9,10 @@ tags:
   - authentication
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/History_of_biometric_verification.png){: .align-center}
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/History_of_biometric_verification.png" alt="">
+  <figcaption>Look at 580 x 300 getting some love.</figcaption>
+</figure>
 
 
 - The Chinese emperor Ts'in, she was already authenticating specific seals with a fingerprint way back in the second century B.

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "History Of Biometric Verification"
 categories:
   - Biometric

@@ -13,7 +13,6 @@ tags:
   <img src="/assets/images/History_of_biometric_verification.png" alt="">
 </figure>
 
-
 - The Chinese emperor Ts'in, she was already authenticating specific seals with a fingerprint way back in the second century B.
 
 - In 1858 [William James Herschel](https://en.wikipedia.org/wiki/Sir_William_Herschel%2c_2nd_Baronet), a British administrator in India used Fingerprints. Having been put in charge of building roads in Bengal, he had his subcontractors sign contracts with their fingers. That was an early form of biometric authentication and a sure way of being able to find them more quickly if they defaulted.

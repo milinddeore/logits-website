@@ -43,7 +43,7 @@ I am responsible for figuring out what customers want. Prior to Logits, I had my
 
 *Co-founder*
 
-Milind has 20 years of work experience: As a platform engineer with companies like Starent Networks and Cisco. As machine learning architect with Mellowain and FICO. Milind believes in the power of communities and therefore active AI/ML/IoT community member and organizer. Conducted various bootcamps and hackathons. Open source contributor, entrepreneur, learner. Milind mentored and won awards for various projects like : Eclipse IoT 2015, TI India challenge 2016, Intel Ultimate coder challenge 2016. Multiple patents in the area of facial authentication.
+Milind has 21 years of work experience, as a platform engineer with companies like Starent Networks and Cisco Systems and as a machine learning architect with Mellowain and FICO. Milind is an active AI/ML/IoT community member and organizer, conducted various bootcamps and hackathons in the past. Open source contributor, entrepreneur, learner. Milind mentored and won awards like: Eclipse IoT 2015, TI India challenge 2016, Intel Ultimate coder challenge 2016. Multiple patents in the area of facial authentication.
 
 <div class="page__footer-follow">
   <ul class="social-icons">

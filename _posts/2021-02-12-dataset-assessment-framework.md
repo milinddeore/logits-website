@@ -45,6 +45,7 @@ Used in ways that are unacceptable or unexpected.
 
 *FIG-2 : Risk and countermeasures*
 
+
 ![FIG-3 : Assess the costs and value](/assets/images/AssessTheCostsAndValue.png)
 
 *FIG-3 : Assess the costs and value*

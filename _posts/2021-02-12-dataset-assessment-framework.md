@@ -40,14 +40,16 @@ Insecurely transmitted or stored,
 Used in ways that are unacceptable or unexpected.
 
 **2. Identify Risk** — Likelihood and level of severity must be set as Low, Medium and High.
+
 <figure class="align-left">
-  <img src="/assets/images/RiskAndCountermeasures.png" alt="">
+  <img src="/assets/images/RiskAndCountermeasures.png" alt="" title="Risk and countermeasures">
+    <figcaption>Caption goes here</figcaption>
 </figure>
 
-*FIG-2 : Risk and countermeasures*
 
 <figure class="align-left">
   <img src="/assets/images/AssessTheCostsAndValue.png" alt="">
+    <figcaption>Caption goes here</figcaption>
 </figure>
 
 *FIG-3 : Assess the costs and value*

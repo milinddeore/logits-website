@@ -28,7 +28,7 @@ The data comes from multiple sources and we need to collect it through data pipe
 - Collection / Storage,
 - Ingestion,
 - Preparation / Transformation (*Clean, Shape, Augment, Transform, Feature Extraction, Conform*).
-- 
+
 **2. Machine Learning** : Computation
 
 **3. Output** : Inference, Presentation

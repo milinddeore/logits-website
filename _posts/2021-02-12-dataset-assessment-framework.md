@@ -42,9 +42,11 @@ Used in ways that are unacceptable or unexpected.
 **2. Identify Risk** — Likelihood and level of severity must be set as Low, Medium and High.
 
 ![FIG-2 : Risk and countermeasures](/assets/images/RiskAndCountermeasures.png)
+
 *FIG-2 : Risk and countermeasures*
 
 ![FIG-3 : Assess the costs and value](/assets/images/AssessTheCostsAndValue.png)
+
 *FIG-3 : Assess the costs and value*
 
 ## Step 2:

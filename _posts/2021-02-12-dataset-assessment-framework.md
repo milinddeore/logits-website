@@ -40,16 +40,15 @@ Insecurely transmitted or stored,
 Used in ways that are unacceptable or unexpected.
 
 **2. Identify Risk** — Likelihood and level of severity must be set as Low, Medium and High.
-
 <figure class="align-left">
   <img src="/assets/images/RiskAndCountermeasures.png" alt="" title="Risk and countermeasures">
     <figcaption>FIG-2 : Risk and countermeasures</figcaption>
 </figure>
-
 <figure class="align-left">
   <img src="/assets/images/AssessTheCostsAndValue.png" alt="">
     <figcaption>FIG-3 : Assess the costs and value</figcaption>
 </figure>
+
 
 ## Step 2:
 **1. Classify Data** — Data must have sufficient meta information and labeling, eg. : personal data, minor data, gender, special category like high-net-worth individuals, etc.

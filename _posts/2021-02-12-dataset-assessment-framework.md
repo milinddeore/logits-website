@@ -9,11 +9,9 @@ tags:
   - gdpr
   - ccpa
 ---
-
 <figure class="center">
   <img src="/assets/images/GDPR_CCPA.jpeg" alt="">
 </figure>
-
 *With GDPR and CCPA, enforced cloud companies needs to comply data for fair usage. This is brief framework to get started …*
 
 *For all those data science developer and companies who are are under the ambit of compliance, are the potential consumer of this framework.*
@@ -42,18 +40,17 @@ Insecurely transmitted or stored,
 Used in ways that are unacceptable or unexpected.
 
 **2. Identify Risk** — Likelihood and level of severity must be set as Low, Medium and High.
-
 <figure class="align-left">
   <img src="/assets/images/RiskAndCountermeasures.png" alt="">
 </figure>
 
-FIG-2 : Risk and countermeasures
+*FIG-2 : Risk and countermeasures*
 
 <figure class="align-left">
   <img src="/assets/images/AssessTheCostsAndValue.png" alt="">
 </figure>
 
-FIG-3 : Assess the costs and value
+*FIG-3 : Assess the costs and value*
 
 ## Step 2:
 **1. Classify Data** — Data must have sufficient meta information and labeling, eg. : personal data, minor data, gender, special category like high-net-worth individuals, etc.

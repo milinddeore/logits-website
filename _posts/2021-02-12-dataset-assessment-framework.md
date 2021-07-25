@@ -43,16 +43,13 @@ Used in ways that are unacceptable or unexpected.
 
 <figure class="align-left">
   <img src="/assets/images/RiskAndCountermeasures.png" alt="" title="Risk and countermeasures">
-    <figcaption>Caption goes here</figcaption>
+    <figcaption>FIG-2 : Risk and countermeasures</figcaption>
 </figure>
-
 
 <figure class="align-left">
   <img src="/assets/images/AssessTheCostsAndValue.png" alt="">
-    <figcaption>Caption goes here</figcaption>
+    <figcaption>FIG-3 : Assess the costs and value</figcaption>
 </figure>
-
-*FIG-3 : Assess the costs and value*
 
 ## Step 2:
 **1. Classify Data** — Data must have sufficient meta information and labeling, eg. : personal data, minor data, gender, special category like high-net-worth individuals, etc.

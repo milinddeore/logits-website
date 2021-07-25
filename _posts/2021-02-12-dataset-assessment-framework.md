@@ -10,12 +10,8 @@ tags:
   - ccpa
 ---
 
-<p align="center">
-  <img src="/assets/images/GDPR_CCPA.jpeg" title="GDPR and CCPA" alt="accessibility text">
-</p>
-
-<figure class="align-left">
-  <img src="/assets/images/GDPR_CCPA.jpeg" alt="">
+<figure class="center">
+  <img src="assets/images/GDPR_CCPA.jpeg" alt="">
 </figure>
 
 *With GDPR and CCPA, enforced cloud companies needs to comply data for fair usage. This is brief framework to get started …*
@@ -48,13 +44,13 @@ Used in ways that are unacceptable or unexpected.
 **2. Identify Risk** — Likelihood and level of severity must be set as Low, Medium and High.
 
 <figure class="align-left">
-  <img src="/assets/images/RiskAndCountermeasures.png" alt="">
+  <img src="assets/images/RiskAndCountermeasures.png" alt="">
 </figure>
 
 FIG-2 : Risk and countermeasures
 
 <figure class="align-left">
-  <img src="/assets/images/AssessTheCostsAndValue.png" alt="">
+  <img src="assets/images/AssessTheCostsAndValue.png" alt="">
 </figure>
 
 FIG-3 : Assess the costs and value

@@ -9,6 +9,7 @@ tags:
   - gdpr
   - ccpa
 ---
+![GDPR_CCPA](https://github.com/milinddeore/logits-website/blob/master/_posts/assets/images/GDPR_CCPA.jpeg)
 
 <figure class="center">
   <img src="assets/images/GDPR_CCPA.jpeg" alt="">

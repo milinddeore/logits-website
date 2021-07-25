@@ -10,6 +10,10 @@ tags:
   - ccpa
 ---
 
+<p align="center">
+  <img src="/assets/images/GDPR_CCPA.jpeg" title="GDPR and CCPA" alt="accessibility text">
+</p>
+
 <figure class="align-left">
   <img src="/assets/images/GDPR_CCPA.jpeg" alt="">
 </figure>

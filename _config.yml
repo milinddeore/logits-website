@@ -96,15 +96,15 @@ author:
   name             : "Logits Blog"
   avatar           : #"/assets/images/logits-logo100x100.png"
   bio              : "Biometric Technologies, Trends and News"
-  location         : "Pune, India"
+  location         : "Singapore"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:saket@logits.systems"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      # url: "https://your-website.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Saket_Deshmukh"
@@ -293,18 +293,18 @@ defaults:
 # Team Members
 milind:
   links:
-    - label: ""
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tomdeore"
-    - label: ""
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mdeore/"
-    - label: ""
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/milinddeore"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      # url: ""
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:

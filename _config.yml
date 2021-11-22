@@ -293,22 +293,22 @@ defaults:
 # Team Members
 milind:
   links:
-    - label: "Twitter"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tomdeore"
-    - label: "LinkedIn"
+    - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mdeore/"
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/milinddeore"
-    - label: "GitLab"
+    - label: ""
       icon: "fab fa-fw fa-gitlab"
       # url: ""
-    - label: "Bitbucket"
+    - label: ""
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
+    - label: ""
       icon: "fab fa-fw fa-instagram"
       # url:
 

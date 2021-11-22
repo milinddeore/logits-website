@@ -15,8 +15,6 @@ excerpt: "Reachout, we would love to talk."
 
 ---
 
-**Email** : [Saket@logits.systems](saket@logits.systems)
-
-**Phone** : +91-9130730113
+**Email** : [milind@logits.systems](milind@logits.systems)
 
 ---

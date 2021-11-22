@@ -319,7 +319,7 @@ shaibal:
       #url: "https://twitter.com/Shaibal"
     - label: ""
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/shaibal-chakrabarty/"
+      url: "https://www.linkedin.com/in/shaibal-chakrabarty/"
     - label: ""
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/milinddeore"

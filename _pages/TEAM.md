@@ -37,7 +37,7 @@ Milind has 21 years of work experience, as a platform engineer with companies li
 
 ---
 
-![Shaibal](/assets/images/shaibal.jpeg)
+![Shaibal](/assets/images/shaibal.jpg)
 ### Dr. Shaibal Chakarbarty
 
 *Co-founder*

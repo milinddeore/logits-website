@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Logits Systems"
+title                    : "Logit"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Logits Systems"
-description              : "Biometric on the edge devices."
+name                     : "Logit"
+description              : "Authentication and Data Privacy Reimagined"
 url                      : "https://logits.systems/" # "https://milinddeore.github.io/"
 baseurl                  : "" # "/logits-website"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Logits Blog"
+  name             : "Logit Blog"
   avatar           : #"/assets/images/logits-logo100x100.png"
   bio              : "Biometric Technologies, Trends and News"
   location         : "Singapore"

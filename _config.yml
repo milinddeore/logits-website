@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Logit"
 description              : "Authentication and Data Privacy Reimagined"
-url                      :  "https://milinddeore.github.io/"  # "https://logits.systems/"
+url                      :  "https://milinddeore.github.io/logits-website/"  # "https://logits.systems/"
 baseurl                  : "" # "/logits-website"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
